@@ -1,4 +1,4 @@
-//Esta clase representará un animal con su nivel de energía.
+//Esta clase representará una planta con su nivel de energía.
 
 public class Planta {
     private int energia;
